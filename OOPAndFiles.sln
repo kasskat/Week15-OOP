@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPAndFiles", "OOPAndFiles\OOPAndFiles.csproj", "{D7471257-0DAB-41AE-A2B4-BAAA9E513C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frozen", "Frozen\Frozen.csproj", "{90843765-D906-4B58-AEE8-CE3657F933B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7471257-0DAB-41AE-A2B4-BAAA9E513C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7471257-0DAB-41AE-A2B4-BAAA9E513C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7471257-0DAB-41AE-A2B4-BAAA9E513C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7471257-0DAB-41AE-A2B4-BAAA9E513C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90843765-D906-4B58-AEE8-CE3657F933B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90843765-D906-4B58-AEE8-CE3657F933B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90843765-D906-4B58-AEE8-CE3657F933B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90843765-D906-4B58-AEE8-CE3657F933B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94A05521-F802-4271-BE62-13B098B8EF2D}
+	EndGlobalSection
+EndGlobal
